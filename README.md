@@ -1,5 +1,5 @@
--- 👋 Hi, I’m @Anag0710
-- 👀 **Interests**: I'm passionate about building innovative web applications with a focus on user experience and functionality. My current projects include e-commerce platforms, content generation tools, and interactive games. I enjoy exploring how technology can be leveraged to create seamless and impactful user interactions. I'm also interested in web3 and blockchain technology and how they can revolutionize online experiences.
+# 👋 Hi, I’m Anag Aggarwal
+### I'm passionate about building innovative web applications and web3 projects with a focus on user experience and functionality. My current projects include e-commerce platforms, content generation tools, and interactive games. I enjoy exploring how technology can be leveraged to create seamless and impactful user interactions. I'm also interested in web3 and blockchain technology and how they can revolutionize online experiences.
 
 - 🌱 **Learning Goals**: I’m currently expanding my skills in both front-end and back-end development, working with tools like Next.js, Node.js, and various UI/UX design frameworks. I'm also exploring e-commerce functionalities, such as cart management, user authentication, and data persistence, aiming to create well-rounded and functional applications. Additionally, I am diving into web3 and blockchain to understand decentralized applications and smart contracts.
 
