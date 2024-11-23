@@ -6,7 +6,7 @@
 <h2 align="center"><samp>👋 Hi, I’m Anag Aggarwal</samp></h2>
 <h3 align="center"><samp>Web3 | Web Developer | UI/UX Designer</samp></h3>
 
-![Working Mario GIF](https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif)
+
 
 <hr/>
 
